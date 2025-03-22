@@ -1,4 +1,4 @@
-# radxa_case
+# Simple RADXA ZERO 3W STL CASE
 Pretty Radxa Zero 3W easy to print case (STL models)
 
 This is test 3d case model for one board PC Radxa Zero 3W
